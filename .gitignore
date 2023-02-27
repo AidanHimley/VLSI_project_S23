@@ -1,3 +1,4 @@
 .cadence/
 libManager.log*
+*.cdslck*
 
