@@ -1,0 +1,8 @@
+Row decoder: 4in, 16 out, enable
+Column Decoder: 1in ADDR, 2 out for ADDR, Din Bus, Dout Bus
+Word Column: column select, clk, read, write, in, wl, din buses, dout buses
+Word: Wordline, Bitline Bus, Bitline Bar Bus, 
+Sense Amp: enable, bl, blb, out
+Bitcell: wl in, bl and blb out
+Logic Gates
+Muxes
